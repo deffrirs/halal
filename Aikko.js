@@ -521,7 +521,7 @@ but = [
 
         sendButImage(from, menunya, teks, gambar, but)
 
-Break
+break
 case 'linkgcown':
 menu =
 `join Yah Kak Group Official Ownernya
@@ -759,7 +759,7 @@ but = [
 
         sendButImage(from, menunya, teks, gambar, but)
 
-Break
+break
 //══════════[ Fitur Download ]══════════//
 
 case 'ytmp3':
